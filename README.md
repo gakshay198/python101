@@ -1,2 +1,2 @@
 # python101
-Learning python and documenting the everything. Learning it through "Learning Python The Hard Way".
+Learning python and documenting it. Learning it through "Learning Python The Hard Way".
