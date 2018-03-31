@@ -14,5 +14,8 @@ print "Division : 23 / 12 is", x, "and remainder : ", y
 
 # To output dividion in floating point
 i = 23.0
-x = i / j
+x = i / 1.36464
 print "Division : 23 / 12", x
+# round() is used to round the floating number
+print "Division : 23 / 12", round(x)
+print "Division : 23 / 12 %.0f" % round(x)
