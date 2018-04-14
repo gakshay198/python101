@@ -1,5 +1,7 @@
 people = 10  # Asign Value
-x = f"There are {people} types of people" # Create a formatted string
+
+# Create a formatted string
+x = f"There are {people} types of people."
 
 binary = "Binary"
 dont = "Don't"
@@ -16,11 +18,11 @@ print(f"I also said : {y}")
 
 # Printing multiple strings in single print()
 
-print(f"I also said : {y}",f"use {x}", "Using multiple strings")
+print(f"I also said : {y}", f"use {x}", "Using multiple strings")
 
 
 hilarious = False  # Boolean value
-joke = "Isn't that joke so funny ? {}" # Create a string format
+joke = "Isn't that joke so funny ? {}"  # Create a string format
 
 # Use format() to print pre-formatted string with other variable.
 print(joke.format(hilarious))

@@ -1,4 +1,4 @@
-name = 'Akshay Girhepuje' # Assign string to variable
+name = 'Akshay Girhepuje'  # Assign string to variable
 age = 21  # Assign integer to variable.
 weight = 48
 height = 149
@@ -11,7 +11,7 @@ print(f"His age is {age}.")
 print(f"He weighs {weight} kilos.")
 print(f"His eys are {eyes} and teeth are {teeth}.")
 
-#Printing Multiple variables
+# Printing Multiple variables
 total = age + weight + height  # Addition
 print(f"If I add {age}, {weight}, and {height} I get {total}")
 

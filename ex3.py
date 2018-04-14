@@ -2,7 +2,7 @@ print("I will now count my chickens:")
 # Count hens. But prints float value.
 print ("Hens", 25 + 30 / 6)
 # Prints integer value.
-print ("Roosters",  100 - 25 * 3 % 4)
+print ("Roosters", 100 - 25 * 3 % 4)
 
 print ("Now I'll count the eggs:")
 # Prints float
