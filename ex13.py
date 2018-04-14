@@ -1,7 +1,10 @@
+# sys is Package.
+# argv is a module.
+
 from sys import argv
 
 script, first, second, third, fourth = argv
-# command line arguemnts are taken as strings
+# command line argumnts are taken as strings
 
 print("The script is called :", script)
 print("The first variable is called:", first)
