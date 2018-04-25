@@ -25,10 +25,10 @@ print (formatter.format(
     "N",
     "."))
 
-# Use """ for multiline commentsself. eg. See below.
+# Use """ for multiline comments. eg. See below.
 
 """
 If we had used only 3 {} in formatter variable and passed 4 arguments then
 only first 3 arguments would have been printed.
-But if we pass less argument than defined numbers thenm it gives
+But if we pass less argument than defined numbers then it gives
 "tuple index out of range" error."""

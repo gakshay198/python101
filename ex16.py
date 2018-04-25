@@ -13,7 +13,7 @@ print("Opening the file...")
 # Always asign it to a variable whenever opening a file.
 target = open(file, 'w')
 
-print("Trncating the file.. Goodbye!!")
+print("Truncating the file.. Goodbye!!")
 # Deleting contents of the file.
 target.truncate()
 

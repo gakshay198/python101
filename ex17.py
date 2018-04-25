@@ -1,5 +1,5 @@
 from sys import argv
-from os.path import exists  # to impirt exists()
+from os.path import exists  # to import exists() module form os.path package
 
 script, file1, file2 = argv  # Unpacking the passed argumnts.
 
